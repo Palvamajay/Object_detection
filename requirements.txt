@@ -1,0 +1,8 @@
+# we need to install this libraries
+# with the help of the pip install
+
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
